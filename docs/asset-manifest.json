@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hacker-hub/static/css/main.8c35d8f0.css",
+    "main.js": "/hacker-hub/static/js/main.fb88bf4f.js",
+    "index.html": "/hacker-hub/index.html",
+    "main.8c35d8f0.css.map": "/hacker-hub/static/css/main.8c35d8f0.css.map",
+    "main.fb88bf4f.js.map": "/hacker-hub/static/js/main.fb88bf4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c35d8f0.css",
+    "static/js/main.fb88bf4f.js"
+  ]
+}
