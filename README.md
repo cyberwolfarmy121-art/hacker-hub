@@ -50,9 +50,6 @@ Note: Backend requires MongoDB for full functionality. Without MongoDB, it runs 
 - **Database**: MongoDB (optional - demo mode available)
 - **Security**: Helmet, Rate Limiting, JWT Auth
 
-## Admin Access
-
-Use email: `maxin12332176@gmail.com` to get CWHUB admin ID
 
 ## License
 
